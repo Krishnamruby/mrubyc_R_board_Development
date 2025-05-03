@@ -1,4 +1,4 @@
-# mrubyc_R_board_Development
+# mruby/c Development for R Board (PIC32 Microcontroller)
 
 Development using **mruby/c** on the **R Board** — a PIC32-based microcontroller platform.
 
