@@ -2,6 +2,9 @@
 
 Development using **mruby/c** on the **R Board** — a PIC32-based microcontroller platform.
 
+![Alt text](https://www.s-itoc.jp/images/original/202311251541098690c83e84c.png)
+
+
 ## 📝 Overview
 
 This repository contains example projects and documentation for using the [mruby/c](https://github.com/mrubyc/mrubyc) interpreter with the R Board. The initial example demonstrates how to blink an LED using Ruby code, making embedded development more accessible and expressive.
