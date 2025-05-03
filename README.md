@@ -2,7 +2,7 @@
 
 Development using **mruby/c** on the **R Board** — a PIC32-based microcontroller platform.
 
-<img src="https://www.s-itoc.jp/images/original/202311251541098690c83e84c.png" alt="Alt text" width="500" height="300">
+<img src="https://www.s-itoc.jp/images/original/202311251541098690c83e84c.png" alt="Alt text" width="300" height="300">
 
 
 ## 📝 Overview
