@@ -35,10 +35,10 @@ This repository contains example projects and documentation for using the [mruby
 
 ## 📚 Credits
 
-- [**mruby/c**](https://github.com/kaz0505)  
-  Developed by **Kazuaki Tanaka**  
+- **mruby/c**
+  Developed by [**Kazuaki Tanaka**](https://github.com/kaz0505) 
   *Kyushu Institute of Technology*
 
-- [**R Board**](https://github.com/YoshihiroOgura)  
-  Developed by **Yoshihiro Ogura**  
+- **R Board**  
+  Developed by [**Yoshihiro Ogura**](https://github.com/YoshihiroOgura)  
   *Shimane Johoshori Center Inc.*
