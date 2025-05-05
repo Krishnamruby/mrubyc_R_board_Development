@@ -9,8 +9,8 @@ loop do
     	puts "Button Pressed"
   	else
     	puts "Button Released"
-	#last = current
-  	end
+	end
+  last = current
   end
   sleep(0.5)  # debounce delay
 end
