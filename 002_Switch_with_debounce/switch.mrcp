@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mrcp name="switch">
+  <version>1.0</version>
+  <timestamp>2025-05-05T14:33:47</timestamp>
+  <files>
+    <file name="switch_main.rb">
+      <type>2</type>
+      <editing>true</editing>
+      <mark/>
+    </file>
+  </files>
+</mrcp>
