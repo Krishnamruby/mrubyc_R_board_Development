@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mrcp name="Proximity_Sensor">
+  <version>1.0</version>
+  <timestamp>2025-05-07T11:57:42</timestamp>
+  <files>
+    <file name="proxy_main.rb">
+      <type>2</type>
+      <editing>true</editing>
+      <mark/>
+    </file>
+  </files>
+</mrcp>
