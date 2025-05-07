@@ -1,4 +1,4 @@
-Proximity Sensor Example
+003. Proximity Sensor Example 
 
 Pin Diagram
 
